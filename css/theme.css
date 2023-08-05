@@ -1,0 +1,30 @@
+/* "Table 1" Section */
+table, th, td, .center-align {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    /*vertical-align: middle*/
+}
+.containerX{
+    display: flex;
+}
+.containerX div{
+    padding: 10px 50px;
+}
+.containerX img{
+    width: 100px;
+    height: 100px;
+}
+
+body {
+    background: rgb(157, 220, 196);
+background: linear-gradient(90deg, rgb(199, 194, 194) 0%, rgb(157, 220, 196) 56%, rgba(199, 194, 194) 100%);
+}
+
+.acadInfo{
+    margin-left: 105px;
+}
+
+.w3-class{
+    margin-left: 94px !important;
+}
